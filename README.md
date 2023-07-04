@@ -1,5 +1,5 @@
 # Customer-Analytics
-customer analytics
+**customer analytics**
 Overview of customer analytics
 อะไรคือเป้ามหายของการทำ Customer Analytics?
 > เพิ่มกำไรสุทธิ?
