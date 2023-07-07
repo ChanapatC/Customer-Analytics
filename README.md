@@ -1,12 +1,6 @@
 # Customer-Analytics
 **customer analytics**
-Overview of customer analytics
-อะไรคือเป้ามหายของการทำ Customer Analytics?
-> เพิ่มกำไรสุทธิ?
-> เพิ่มยอดขาย?
-> optimize acquisition cost, retention cost, marketing budget?
-> เพิ่ม Market share and satisfaction
-> Customer relationship management, customer experience
+![‎Untitled 2 ‎1](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/df8d6e83-6f4a-4f88-9477-bfaeda87d60f)
+![‎Untitled 2 ‎2](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/13c69c56-089e-49d3-969d-c206583cb0c1)
+![‎Untitled 2 ‎3](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/2faa56f3-c195-46d3-964d-51bca8663e06)
 
-Gain insights of customer behavior 
-<img width="363" alt="Screenshot 2023-06-11 at 23 17 20" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/8f386071-43de-4aab-9990-c5b95d066f71">
