@@ -20,3 +20,4 @@ Building Blocks of Customer Analytics
 
 ![‎Untitled 3 ‎4](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/771f55ad-b379-4914-aae2-6c1dc2169e23)
 
+[GROUP 2 - GRABFOOD.pdf](https://github.com/ChanapatC/Customer-Analytics/files/12181214/GROUP.2.-.GRABFOOD.pdf)
