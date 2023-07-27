@@ -4,7 +4,7 @@
 
 An accessible and consistent set of information about how a customer has interacted with your company,
 including what they have bought, their personal data, opinions and feedback.
-.
+
 The centralized database that consolidates a customer's information and interactions across all business touchpoints. It provides a 360-degree view of the customer, enabling better customer experiences, personalized interactions, and improved relationship management. Businesses can use it to anticipate needs, resolve issues, and tailor marketing efforts effectively.
 
 ## The Key Elements Of Customer Single View
