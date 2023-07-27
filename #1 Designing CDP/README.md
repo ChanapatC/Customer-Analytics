@@ -11,7 +11,7 @@ Building Blocks of Customer Analytics
 ![‎Untitled 3 ‎3](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/9d7b39de-5455-4301-81c5-17f7bb058bc1)
 
 
-## Workshop: Design customer data platform 
+## Designing CDP for Food delivery application
 - What’s customer information should be collected?
 - Design features
 - Analytics engine 
