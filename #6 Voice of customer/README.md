@@ -15,3 +15,7 @@ Voice of Customer (VoC) analytics involves collecting and analyzing customer fee
 8. **Reduced Costs**: Addressing customer issues proactively can lead to fewer complaints, returns, and support requests, ultimately reducing operational costs.
 9. **Positive Brand Perception**: Responding to customer feedback and implementing improvements demonstrates that the company values its customers, leading to a positive brand perception.
 10. **Word-of-Mouth and Referrals**: Satisfied customers are more likely to recommend the company to others, leading to organic growth through positive word-of-mouth and referrals.
+
+
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)][(
+https://colab.research.google.com/drive/1KWyQkI6c5tdMK4B_ZDWkmyGfgt8OdBU-?usp=share_link)]
