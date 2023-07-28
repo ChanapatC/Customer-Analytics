@@ -17,5 +17,14 @@ Voice of Customer (VoC) analytics involves collecting and analyzing customer fee
 10. **Word-of-Mouth and Referrals**: Satisfied customers are more likely to recommend the company to others, leading to organic growth through positive word-of-mouth and referrals.
 
 
-
+# Workshop:Topic modeling with LDA
+* *LDA is Latent Dirichlet Allocation algorithm*
+  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/5.Segmentation/V2_1_HDI_Segmentation.ipynb)
+
+## Objective
+Need to know feedback from Youtube user who intesting on movie name 'OPPENHEIMER'
+comment source 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XtPZ8-fjTGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/XtPZ8-fjTGQ
+
