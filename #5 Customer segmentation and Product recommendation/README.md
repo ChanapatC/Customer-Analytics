@@ -56,7 +56,8 @@ With the cluster lables as classes to predict, create a Random Forest Classifier
 
  ![MicrosoftTeams-image (17)](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/30d08766-8e32-48f9-9189-325bf9963617)
 
- 
+## 4)Interpreting Resulys
+
 **Clustering Characteristics**
 
 name cluster;
