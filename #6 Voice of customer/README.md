@@ -7,7 +7,7 @@ Voice of Customer (VoC) analytics involves collecting and analyzing customer fee
 
 1. **Customer-Centric Approach**: VoC analytics helps companies become more customer-centric by gaining direct insights into customer preferences, pain points, and expectations.
 2. **Improved Product/Service Development**: Understanding customer feedback allows businesses to make data-driven decisions for product and service improvements, leading to offerings that better meet customer needs.
-3. **Enhanced Customer Experience**: By addressing customer concerns and feedback, companies can improve the overall customer experience, leading to higher satisfaction and loyalty.
+3. **Enhanced Customer Experience**: By addressing customer concerns and feedback, companies can improve the overall customer experience,leading to higher satisfaction and loyalty.
 4. **Increased Customer Retention**: Satisfied customers are more likely to stay loyal to a brand, reducing customer churn and improving customer retention rates.
 5. **Better Decision-Making**: VoC analytics provides valuable data to support decision-making processes, helping prioritize initiatives and allocate resources effectively.
 6. **Competitive Advantag**e: Companies that actively listen to their customers and act on feedback gain a competitive advantage by offering products and services that align with customer expectations.
@@ -20,7 +20,8 @@ Voice of Customer (VoC) analytics involves collecting and analyzing customer fee
 # Workshop:Topic modeling with LDA
 * *LDA is Latent Dirichlet Allocation algorithm*
   
-**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/5.Segmentation/V2_1_HDI_Segmentation.ipynb)
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/ChanapatC/Customer-Analytics/blob/main/Justdoit_review_opp.ipynb))
+
 
 ### Objective
 Need to know feedback from Youtube-users who intesting on movie name 'OPPENHEIMER'
