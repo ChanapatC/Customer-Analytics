@@ -5,29 +5,26 @@
 
 ## 1) Dataset
 
-The data is an eCommerce dataset, the details as below;
+The data is a customertravel dataset, the details as below;
 
-Number of observations: 5,630   
-Number of variables: 20
+Number of observations: 954
+Number of variables: 7
 
-Data dictionary
-- CustomerID = Unique customer ID
-- Churn = Churn Flag
-- Tenure = Tenure of customer in organization
-- PreferredLoginDevice = Preferred login device of customer
-- CityTier = City tier
-- WarehouseToHome = Distance in between warehouse to home of customer
-- PreferredPaymentMode = Preferred payment method of customer
-- Gender = Gender of customer
-- HourSpendOnApp = Number of hours spend on mobile application or website
-- NumberOfDeviceRegistered = Total number of deceives is registered on particular customer
-- PreferedOrderCat = Preferred order category of customer in last month
-- SatisfactionScore = Satisfactory score of customer on service
-- MaritalStatus = Marital status of customer
-- NumberOfAddress = Total number of added added on particular customer
-- Complain = Any complaint has been raised in last month
-- OrderAmountHikeFromlastYear = Percentage increases in order from last year
-- CouponUsed = Total number of coupon has been used in last month
-- OrderCount = Total number of orders has been places in last month
-- DaySinceLastOrder = Day Since last order by customer
-- CashbackAmount = Average cashback in last month
+
+Variable name with types:
+
+Age                            int64
+FrequentFlyer                 object
+AnnualIncomeClass              int64
+ServicesOpted                  int64
+AccountSyncedToSocialMedia    object
+BookedHotelOrNot              object
+Target                         int64
+
+## 2) EDA
+<img width="409" alt="Screenshot 2023-07-29 at 21 53 43" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/2c2b3f95-424a-4171-aace-85aa46a04f7f">
+
+![image](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/91c536cd-5337-4c30-82f2-cde0750441e5)
+![image](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/9feee8bd-c0b8-4757-ae2d-d7a9f8f6c2de)
+
+
