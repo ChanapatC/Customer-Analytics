@@ -1,6 +1,6 @@
 # Customer Segmentation & Segment Movement Analysis
 
-**Business overview of HDI**
+### Business overview of HDI
 HDI was established in 1986 by Mr. Peter Chia. HDI became the pioneer in developing the network marketing business in Asia. Since then, millions of individuals were given an opportunity to strive for a better life for them and for their families. He has expanded his market to many countries such as Singapore, Malaysia, Indonesia, Hong Kong and Philippines. HDI have 5 main product categories which are adult and kid, personal care, skincare, food and beverages.
 
 ## 1) Import Dataset
@@ -31,21 +31,20 @@ HDI was established in 1986 by Mr. Peter Chia. HDI became the pioneer in develop
 *Google Colab:*
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChanapatC/Customer-Analytics/blob/main/workshop5_main_clustering.ipynb)
 
-**Choosing K number of clustering**
-Choose ***K=4**
+### Choosing K number of clustering
+Choose **K=4**
 
 ![image](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/bcf61167-3f23-4a12-8b45-7c8023a78997)
 
 
 
-**Clustering Result**
+### Clustering Result
 
 <img width="384" alt="Screenshot 2023-07-29 at 17 52 22" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/b8553951-86e8-4d42-95b6-34ec19d2bd13">
 
 
 
-**Feature importance**
-
+### Feature importance
 With the cluster lables as classes to predict, create a Random Forest Classifier 
 
 <img width="531" alt="Screenshot 2023-07-29 at 18 03 23" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/1210baed-8c39-48ac-b14c-78a5937dc93b">
@@ -58,8 +57,7 @@ With the cluster lables as classes to predict, create a Random Forest Classifier
 
 ## 4)Interpreting Resulys
 
-**Clustering Characteristics**
-
+### Clustering Characteristics
 name cluster;
 - Cluster 0 = Major major
 - Cluster 1 = New star
@@ -70,12 +68,11 @@ name cluster;
 <img width="614" alt="Screenshot 2023-07-29 at 18 05 57" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/6f8aecda-1d02-437b-8bf7-30c3cc48184a">
 
 
-**Business Strategies Recommendation**
-
+### Business Strategies Recommendation
 <img width="619" alt="Screenshot 2023-07-29 at 18 13 05" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/c44f89ef-e143-4211-9f8f-5600e817d833">
 
  
-**Further step**
+### Further step
 - Doing Social network analysis; for getting relationship or downline and upline such as sales volume, similarity of product categories and etc.
 - silhouette analysis; it's better than k-median
 - separate sales channel analysis; clustering in order to sperate offline and online sales
