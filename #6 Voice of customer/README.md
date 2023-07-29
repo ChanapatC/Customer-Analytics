@@ -47,22 +47,26 @@ column name as below;
 
 **Create dictionary**
 
-<img width="697" alt="Screenshot 2023-07-29 at 14 22 24" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/21f87d64-1848-4f37-9d3e-d7410d1f6287">
+<img width="1018" alt="Screenshot 2023-07-29 at 15 11 22" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/0a6a9014-1705-4ce3-ba52-857f077d879e">
+
 
 **Topic modeling**
 
-<img width="680" alt="Screenshot 2023-07-29 at 14 23 37" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/1a7f9457-e195-45e1-a0c2-381c3373e539">
+<img width="685" alt="Screenshot 2023-07-29 at 15 11 45" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/2c0467f5-83d4-46da-99c1-2cc7290173b7">
+
 
 
 **Visualizing results**
 
-<img width="915" alt="Screenshot 2023-07-29 at 14 26 13" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/44870a32-9eaa-49f0-bd59-2ed438cfd52f">
+<img width="900" alt="Screenshot 2023-07-29 at 15 12 09" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/f2cf34f4-7b0d-4cd3-a35e-05e1239ed5b9">
+
 
 
 **Predict topics**
 
-<img width="184" alt="Screenshot 2023-07-29 at 14 27 28" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/a2d19de9-8ebf-4c9c-a287-437cc30397bd">
-<img width="718" alt="Screenshot 2023-07-29 at 14 27 38" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/e3ac4ab6-d360-4a2e-b285-2d592d453dc3">
+<img width="162" alt="Screenshot 2023-07-29 at 15 12 17" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/6fd8b8c7-955d-4a4e-bfbc-125ca5f0e624">
+<img width="486" alt="Screenshot 2023-07-29 at 15 12 39" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/f0fee2be-fa71-45de-b19a-4c0db98bfbdb">
+
 
 
 
