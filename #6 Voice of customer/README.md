@@ -27,10 +27,11 @@ Need to know feedback from Youtube-users who intesting on movie name 'OPPENHEIME
 * *comment source:https://youtu.be/XtPZ8-fjTGQ*
 
 ### 1. Create data set
-Selecting a random comment from this VDO as a sample for the LDA model
-column name
-1. review_id / customer_id / user_id
-2. review / comment
+Selecting a random comment from this VDO as a sample for the LDA model.
+
+column name as below;
+1) review_id / customer_id / user_id
+2) review / comment
 
 <img width="1000" alt="Screenshot 2023-07-28 at 14 15 03" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/fd911606-014f-4c17-85b1-4c39e0cef602">
 
