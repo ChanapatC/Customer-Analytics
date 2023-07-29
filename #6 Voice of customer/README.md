@@ -41,18 +41,23 @@ column name as below;
 
 
 **Tokenize words with pythainlp**
+
 <img width="596" alt="Screenshot 2023-07-29 at 13 51 09" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/22f1c245-bb1d-4903-89ab-aecf48fefe6a">
 
 **Create dictionary**
+
 <img width="697" alt="Screenshot 2023-07-29 at 14 22 24" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/21f87d64-1848-4f37-9d3e-d7410d1f6287">
 
 **Topic modeling**
+
 <img width="680" alt="Screenshot 2023-07-29 at 14 23 37" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/1a7f9457-e195-45e1-a0c2-381c3373e539">
 
 **Visualizing results**
+
 <img width="915" alt="Screenshot 2023-07-29 at 14 26 13" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/44870a32-9eaa-49f0-bd59-2ed438cfd52f">
 
 **Predict topics**
+
 <img width="184" alt="Screenshot 2023-07-29 at 14 27 28" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/a2d19de9-8ebf-4c9c-a287-437cc30397bd">
 <img width="718" alt="Screenshot 2023-07-29 at 14 27 38" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/e3ac4ab6-d360-4a2e-b285-2d592d453dc3">
 
