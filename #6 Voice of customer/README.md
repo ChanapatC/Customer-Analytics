@@ -60,6 +60,9 @@ column name as below;
 
 <img width="900" alt="Screenshot 2023-07-29 at 15 12 09" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/f2cf34f4-7b0d-4cd3-a35e-05e1239ed5b9">
 
+**Grouping comment topic and score**
+
+<img width="689" alt="Screenshot 2023-07-29 at 15 22 39" src="https://github.com/ChanapatC/Customer-Analytics/assets/136244448/4b5ba8dd-e4a0-4f37-a7c2-e7a1834564d0">
 
 
 **Predict topics**
