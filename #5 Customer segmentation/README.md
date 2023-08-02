@@ -36,7 +36,7 @@ HDI was established in 1986 by Mr. Peter Chia. HDI became the pioneer in develop
 1. Cleansing data
 
 *Google Colab:*
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChanapatC/Customer-Analytics/blob/main/clean_jason.ipynb)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChanapatC/Customer-Analytics/blob/main/%235%20Customer%20segmentation/clean_jason.ipynb)
 
 
 
