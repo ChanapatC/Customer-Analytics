@@ -1,7 +1,9 @@
 # Churn scoring
 
 **Notebooks:** [Classification Model](./ChurnScoring.ipynb)  
-**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChanapatC/Customer-Analytics/blob/main/Basic_Churn_Prediction.ipynb)
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChanapatC/Customer-Analytics/blob/main/%234%20Churn%20scoring/Basic_Churn_Prediction.ipynb)
+
+
 
 ## 1) Dataset
 
