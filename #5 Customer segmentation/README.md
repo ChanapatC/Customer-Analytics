@@ -51,10 +51,7 @@ HDI was established in 1986 by Mr. Peter Chia. HDI became the pioneer in develop
 ## 3) Clustering
 
 *Google Colab:*
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/ChanapatC/Customer-Analytics/blob/main/workshop5_main_clustering.ipynb)
-
-
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChanapatC/Customer-Analytics/blob/main/%235%20Customer%20segmentation/workshop5_main_clustering.ipynb)
 
 
 ### Choosing K number of clustering
