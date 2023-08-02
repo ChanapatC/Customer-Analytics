@@ -24,11 +24,12 @@ Voice of Customer (VoC) analytics involves collecting and analyzing customer fee
 
 
 ### Objective
-Need to know feedback from Youtube-users who intesting on movie name 'OPPENHEIMER'
+Need to know feedback from Youtube-users who's intesting on movie name 'OPPENHEIMER'
 * *comment source:https://youtu.be/XtPZ8-fjTGQ*
 
 ### 1. Create data set
 Selecting a random comment from this VDO as a sample for the LDA model.
+This Youtube clip is short review name Oppenheimer which is director by Christopher Nolan
 
 column name as below;
 1) review_id / customer_id / user_id
