@@ -3,7 +3,26 @@
 **Notebooks:** [Classification Model](./ChurnScoring.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChanapatC/Customer-Analytics/blob/main/%234%20Churn%20scoring/Basic_Churn_Prediction.ipynb)
 
+### What's Churn scoring
+Churn scoring, also known as customer churn prediction or customer attrition analysis, is a process of using data and analytics to assess the likelihood that a customer will stop doing business with a company or cancel their subscription within a specific period. The term "churn" refers to the rate at which customers leave or "churn out" from a company's customer base.
 
+Here's an overview of how to do churn scoring:
+
+- Data Collection: Gather relevant data about your customers, including historical transaction records, customer interactions, engagement metrics, demographic information, and any other data that may be relevant to customer behavior.
+- Data Preprocessing: Clean and prepare the data for analysis. This step involves handling missing values, removing duplicates, and transforming the data into a suitable format for modeling.
+- Feature Engineering: Select or create relevant features (variables) that are likely to influence customer churn. These features could include factors such as the frequency of purchases, customer tenure, customer support interactions, customer satisfaction scores, and more.
+- Data Splitting: Divide the dataset into two parts: a training set and a test set. The training set is used to build the churn prediction model, while the test set is used to evaluate the model's performance.
+- Model Selection: Choose an appropriate machine learning algorithm for churn prediction. Commonly used algorithms include logistic regression, decision trees, random forests, support vector machines, and neural networks. The choice of model depends on the data and the complexity of the problem.
+- Model Training: Train the selected model on the training data. The model will learn from historical data to identify patterns associated with customer churn.
+- Model Evaluation: Evaluate the trained model's performance using the test dataset. Common evaluation metrics for binary classification problems like churn prediction include accuracy, precision, recall, F1-score, and area under the receiver operating characteristic curve (AUC-ROC).
+- Churn Scoring: Use the trained model to predict churn probabilities for each customer in the database. The output of the model will be a churn score or probability indicating the likelihood of a customer churning.
+- Set Churn Threshold: Decide on a churn probability threshold above which a customer will be classified as high-risk for churn. This threshold can be adjusted based on the business's risk tolerance and resources for retention efforts.
+- Implement Retention Strategies: Based on the churn scores and identified high-risk customers, implement targeted retention strategies, such as personalized offers, loyalty programs, customer outreach, or discounts to reduce the likelihood of churn.
+- Monitor and Refine: Continuously monitor the churn prediction model's performance and update it with new data periodically. Refine the model and strategies based on new insights and changes in customer behavior.
+
+Churn scoring is a valuable tool for businesses to proactively address customer attrition and improve customer retention, leading to better customer satisfaction and long-term business success.
+
+# Workshop
 
 ## 1) Dataset
 
