@@ -1,6 +1,28 @@
 # Customer Segmentation & Segment Movement Analysis
 
-### Business overview of HDI
+## Customer Segmentation:
+Customer segmentation is a marketing strategy that divides a company's customer base into distinct groups based on specific characteristics or behaviors. It helps businesses better understand their customers, personalize marketing efforts, and improve overall customer satisfaction.
+
+### Principal Component Analysis (PCA):
+PCA is a statistical technique used in data analysis to simplify complex datasets by reducing the number of variables while preserving most of the original information. It transforms correlated variables into a set of uncorrelated principal components, making it easier to interpret and visualize the data. PCA is commonly used for dimensionality reduction and pattern recognition tasks.
+
+**The number of principal components to use in a PCA analysis;**
+1. Variance Explained: Selecting enough principal components to retain a significant portion of the total variance in the data. A common approach is to retain components that explain a certain percentage (e.g., 80% or 90%) of the total variance.
+2. Scree Plot: Using a scree plot to visualize the eigenvalues of the principal components. The "elbow" point on the scree plot indicates a suitable number of components to retain.
+3. Interpretability: Choosing principal components that are easy to interpret and align with the underlying characteristics of the data.
+4. Application: Considering the number of principal components that are practically useful for the specific analysis or downstream tasks.
+ 
+ it depends on the specific dataset and the objectives of the analysis. In PCA, the number of principal components chosen can vary based on
+
+
+## Segment Movement Analysis
+Segment Movement Analysis is the study of how individual body segments move during activities. It involves analyzing the motion and forces of specific body parts to understand technique, efficiency, and injury risks in sports and other movements. Advanced technology is often used to collect data for this analysis.
+
+
+
+# Workshop: HDI 
+## Business overview of HDI ![image](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/6078b92f-f9e6-44d1-ba47-926473f9c9fa)
+
 HDI was established in 1986 by Mr. Peter Chia. HDI became the pioneer in developing the network marketing business in Asia. Since then, millions of individuals were given an opportunity to strive for a better life for them and for their families. He has expanded his market to many countries such as Singapore, Malaysia, Indonesia, Hong Kong and Philippines. HDI have 5 main product categories which are adult and kid, personal care, skincare, food and beverages.
 
 ## 1) Import Dataset
