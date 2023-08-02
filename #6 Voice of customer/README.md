@@ -20,7 +20,7 @@ Voice of Customer (VoC) analytics involves collecting and analyzing customer fee
 # Workshop:Topic modeling with LDA
 * *LDA is Latent Dirichlet Allocation algorithm*
   
-**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChanapatC/Customer-Analytics/blob/main/Justdoit_review_opp.ipynb)
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChanapatC/Customer-Analytics/blob/main/%236%20Voice%20of%20customer/Justdoit_review_opp.ipynb)
 
 
 ### Objective
