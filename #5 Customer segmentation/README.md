@@ -38,6 +38,8 @@ HDI was established in 1986 by Mr. Peter Chia. HDI became the pioneer in develop
 *Google Colab:*
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChanapatC/Customer-Analytics/blob/main/clean_jason.ipynb)
 
+
+
 2. Create product master table
    - by SKU
    - create price per unit
