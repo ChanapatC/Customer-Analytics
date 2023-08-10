@@ -83,7 +83,7 @@ Peform T-TEST and ANOVA
 ### Results
 the best performing model is XGBoost, Sampler:no_sampler
 
-### Cinfusion matrix
+### Confusion matrix
 ![image](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/816350a4-6bd8-4c1c-91bc-4518503659f9)
 
 ### ROC-AUC
