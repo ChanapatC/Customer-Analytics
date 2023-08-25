@@ -23,7 +23,7 @@ The single customer view should sit at the heart of your business. It gives all 
 
 ![image](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/0fc52fcc-e3ee-4547-bc92-05370a8e9821)
 
-# Wotkshop
+# Workshop
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChanapatC/Customer-Analytics/blob/main/03_04_Supermarket_ver2.ipynb)
 
 
