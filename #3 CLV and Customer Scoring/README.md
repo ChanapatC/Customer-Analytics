@@ -1,4 +1,4 @@
-![image](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/1b263d6d-3c6b-48f0-9441-992498e31762)# Customer Life Time Value
+# Customer Life Time Value
 **What's CLV ?**
 Customer Lifetime Value (CLV or LTV) is a crucial metric in marketing and business that represents the total estimated revenue a customer is expected to generate for a company over the entire duration of their relationship with that company.
 ![A-Comprehensive-Guide-to-Customer-Lifetime-Value-Optimization-Using-Predictive-Analytics](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/54a1eae2-6e27-4ad6-8152-c4de3bd41df7)
@@ -28,8 +28,11 @@ Determine the gross margin (GM) percentage per month:
 ![image](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/4d05e692-476e-4194-a4a7-26738fac0afd)
 
 Determine the average lifepan of a customer (ALT), which tells you how long the average customer has been with your company.
+
 ![image](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/897b61da-f86a-461d-abcb-3dc6cc323aa8)
+
 To measure your churn rate, use this formula:
+
 ![image](https://github.com/ChanapatC/Customer-Analytics/assets/136244448/bb457c3c-191c-47e3-83c0-2a8e4c78b0c8)
 
 ### 4. CLV Formula (Traditional)
